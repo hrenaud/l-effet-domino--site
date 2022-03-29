@@ -1,1 +1,6 @@
-@import './elementor';
+header {
+  nav > ul {
+    justify-content: space-between;
+    width: 100%;
+  }
+}
